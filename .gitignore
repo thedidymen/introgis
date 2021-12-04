@@ -1,3 +1,12 @@
+#shape files
+*.shp
+*.cpg
+*.dbf
+*.prj
+*.shx
+*.sbn
+*.sbx
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
